@@ -49,9 +49,10 @@ I am a **Senior Frontend Developer** with a passion for performance and clean ar
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Professional Summary
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoamenSherif81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Moamen's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoamenSherif81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Moamen's top languages" />
-</div>
+Most of my open-source activity is currently paused as I am fully focused on proprietary commercial software.
+
+**Current Role:**
+- **Senior Frontend Engineer & Team Lead** @ [Beyond Creation]
+- Leading the migration and development of large-scale Next.js applications (Madinet Masr, Ford KSA, Hyundai KSA, AutoConnect).

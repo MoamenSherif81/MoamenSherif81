@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Moamen Sherif 👋</h1>
   <h3>Senior Frontend Engineer | Team Lead</h3>
   <p>Building scalable web applications with React, Next.js, and TypeScript.</p>
   <p>Based in Egypt 🇪🇬</p>
 
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/moamen-sherif">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-website.com">
+  <a href="https://moamen-sherif.com/projects">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:moamenyt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 I am a **Senior Frontend Developer** with a passion for performance and clean architecture. I currently lead frontend initiatives, focusing on **Next.js** ecosystems.
 
-- 🔭 I’m currently working on: **High-performance E-commerce platforms**
+- 🔭 I’m currently working on: **AutoConnect Admin Panel** & **Hyundai KSA Website**
 - 🌱 I’m currently expanding into: **Backend Development (Node.js, Express, MongoDB) & DevOps (Docker, Kubernetes)**
 - ⚡ Fun fact: I run my entire dev environment on **Ubuntu**.
 
@@ -52,6 +52,6 @@ I am a **Senior Frontend Developer** with a passion for performance and clean ar
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoamenSherif81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Moamen's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoamenSherif81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Moamen's top languages" />
 </div>

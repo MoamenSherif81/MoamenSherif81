@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Hi there, I'm Moamen Sherif 👋</h1>
-  <h3>Senior Frontend Engineer | Team Lead</h3>
+  <h3>Senior Frontend Engineer</h3>
   <p>Building scalable web applications with React, Next.js, and TypeScript.</p>
   <p>Based in Egypt 🇪🇬</p>
 
-  <a href="https://www.linkedin.com/in/moamen-sherif">
+  <a href="https://www.linkedin.com/in/moamen-sherif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://moamen-sherif.com/projects">
+  <a href="https://moamen-sherif.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:moamenyt@gmail.com">
+  <a href="mailto:moamenyt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

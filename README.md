@@ -54,5 +54,5 @@ I am a **Senior Frontend Developer** with a passion for performance and clean ar
 Most of my open-source activity is currently paused as I am fully focused on proprietary commercial software.
 
 **Current Role:**
-- **Frontend Engineer** @ [Beyond Creation]
+- **Frontend Engineer** @ [Parallel]
 - Leading the migration and development of large-scale Next.js applications (Madinet Masr, Ford KSA, Hyundai KSA, AutoConnect).
